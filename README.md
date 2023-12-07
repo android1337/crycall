@@ -15,10 +15,7 @@ The repository includes an example demonstrating the usage of `crycall`.\
  - Supports C++14 and higher versions.
 
 ## How it shows
-![](https://i.imgur.com/J4npmkJ.png)\
-![](https://i.imgur.com/OlFZgKa.png)\
-![](https://i.imgur.com/9tdtQDD.png)\
-![](https://i.imgur.com/Lj54iiu.png)\
+[Look here](https://imgur.com/a/WN23wmS)
 
 ## Repository Structure
 - **`include/`**: Contains the `crycall.hpp` header file providing the compile-time calls obfuscation mechanism.
